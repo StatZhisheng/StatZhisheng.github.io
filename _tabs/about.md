@@ -16,3 +16,6 @@ order: 4
 
 ## H2 - heading
 {: data-toc-skip='' .mt-4 .mb-0 }
+
+Thanks to [cotes2020](https://github.com/cotes2020/chirpy-starter) share the template. 
+A text-focused Jekyll theme
